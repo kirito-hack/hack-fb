@@ -1,0 +1,8 @@
+apt update 
+apt upgrade
+pkg install git
+git clone https://github.com/kirito-hack/hack-fb.git
+ls
+cd hack
+ls
+apt install.sh
